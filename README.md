@@ -16,7 +16,7 @@ Este repositório contém a implementação de uma API FastAPI com TDD para um p
 3. Instale as dependências do projeto executando o seguinte comando no terminal:
 
 ```bash
-poetry install
+make precommit-install
 ```
 
 **Executando a API**
